@@ -69,16 +69,6 @@
 ![APIs](https://img.shields.io/badge/-APIs-8E24AA?style=flat)
 
 
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceThummar011&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceThummar011&theme=radical" width="48%" />
-</p>
-
----
-
 ### 📌 Featured Projects:
 
 - 🔁 **[Real-Time GenAI Teleprompter](https://github.com/PrinceThummar011/GenAI-Teleprompter)** – Real-time speech to sales pitch using Streamlit + GPT
