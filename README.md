@@ -41,7 +41,6 @@
 
 #### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Regression](https://img.shields.io/badge/-Regression-7E57C2?style=flat)
 ![Classification](https://img.shields.io/badge/-Classification-5C6BC0?style=flat)
