@@ -88,11 +88,4 @@
 
 ---
 
-### 📫 Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/-Prince%20Thummar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-thummar/)](www.linkedin.com/in/prince2005)
-[![GitHub](https://img.shields.io/github/followers/PrinceThummar011?label=Follow&style=social)](https://github.com/PrinceThummar011)
-
----
-
 ⭐️ *If you like my work, consider giving a star to my projects and following me!*
