@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me:
 
 - 🎓 I'm currently pursuing my Bachelor's in Engineering at **Government Engineering College, Rajkot**
-- 🌱 Exploring: **Data Science**, **data analysis**, **Machine Learning**, **Generative AI**, and **Development**
+- 🌱 Exploring: **Data Science**, **Data Analysis**, **Machine Learning**, **Generative AI**, and **Development**
 - 💬 Ask me about **Python, SQL, Git, APIs, Streamlit, LangChain, AI tools**
 - 🚀 Love working on real-world projects and open-source contributions
 
