@@ -67,11 +67,6 @@
 ![APIs](https://img.shields.io/badge/-APIs-8E24AA?style=flat)
 
 
-### 📌 Featured Projects:
-
-- 🔁 **[Real-Time GenAI Teleprompter](https://github.com/PrinceThummar011/GenAI-Teleprompter)** – Real-time speech to sales pitch using Streamlit + GPT
-- 🎙️ **[Voice to AI Assistant](https://github.com/PrinceThummar011/langchain-voice-streamlit)** – Talk to an LLM using mic input in a Streamlit app
-- 📊 **[Customer Analysis SQL Project](https://github.com/PrinceThummar011/customer-order-analysis)** – SQL-based insights with charts
 
 ---
 
