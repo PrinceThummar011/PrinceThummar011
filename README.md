@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Thummar</h1>
-<h3 align="center">Aspiring Data Analyst | AI-ML Enthusiast | Tech Explorer</h3>
+<h3 align="center"> | AI-ML Enthusiast |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrinceThummar011&label=Profile%20views&color=0e75b6&style=flat" alt="PrinceThummar011" />
