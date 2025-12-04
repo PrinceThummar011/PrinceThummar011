@@ -25,15 +25,11 @@
 
 ---
 
-#### 📊 Data Analysis & Visualization
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-6A5ACD?style=flat&logo=python&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-4CAF50?style=flat)
-![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-009688?style=flat)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-F9A825?style=flat)
-![Data Processing](https://img.shields.io/badge/-Data%20Processing-2196F3?style=flat)
+#### 🧠 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=python&logoColor=green)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/GenAI-RAG-ff69b4?style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
@@ -48,6 +44,18 @@
 ![Clustering](https://img.shields.io/badge/-Clustering-FF9800?style=flat)
 ![Optimization](https://img.shields.io/badge/-Model%20Optimization-AB47BC?style=flat)
 ![Predictive Modeling](https://img.shields.io/badge/-Predictive%20Modeling-EC407A?style=flat)
+
+---
+
+#### 📊 Data Analysis & Visualization
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-6A5ACD?style=flat&logo=python&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-4CAF50?style=flat)
+![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-009688?style=flat)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-F9A825?style=flat)
+![Data Processing](https://img.shields.io/badge/-Data%20Processing-2196F3?style=flat)
 
 ---
 
