@@ -25,12 +25,11 @@ Focus     →  LLM-powered tools · RAG Pipelines · MCP Servers · AI Analytics
 | | Project | What it does | Stack |
 |---|---------|--------------|-------|
 | 🔵 | [**Expensetracker — MCP Server**](https://github.com/PrinceThummar011/Expensetracker-MCPserver) | Natural language expense tracking. Plugs into Claude Desktop, Cursor & Gemini CLI. Fully local, zero cloud. | Python · MCP · SQLite · Claude AI |
-| 🟢 | [**Analytics AI**](https://github.com/PrinceThummar011/analytics_ai) | Chat with CSV & Excel data using natural language. AI-powered analysis & visualization. | Streamlit · Groq · Pandas |
 | 🟣 | [**Docuchat**](https://github.com/PrinceThummar011/Docuchat) | Chat with PDF, DOCX & TXT files via RAG. Upload any doc and query it instantly. | LangChain · RAG · Streamlit |
+| 🟢 | [**Analytics AI**](https://github.com/PrinceThummar011/analytics_ai) | Chat with CSV & Excel data using natural language. AI-powered analysis & visualization. | Streamlit · Groq · Pandas |
 | 🔴 | [**HireMind AI**](https://github.com/PrinceThummar011/HireMind-AI) | AI-powered hiring intelligence tool using LLMs to streamline recruitment. | Python · LLMs · FastAPI |
 | 🟡 | [**GenAI Teleprompter**](https://github.com/PrinceThummar011/Real-Time-GenAI-Teleprompter) | Real-time AI-powered teleprompter — script generated on the fly. | Python · GenAI |
 | 🟩 | [**Movie Recommender**](https://github.com/PrinceThummar011/movie-recommender-system) | ML-based movie recommendation using cosine similarity scoring. | Scikit-learn · Streamlit |
-| ⬜ | [**UIDAI Hackathon**](https://github.com/PrinceThummar011/UIDAI-Hackathon) | Hackathon project for the UIDAI national challenge. | Python · Jupyter |
 
 ---
 
