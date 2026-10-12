@@ -38,11 +38,11 @@ Focus     →  LLM-powered tools · RAG Pipelines · MCP Servers · AI Analytics
 <!--OSS-START-->
 <div align="center">
 
-<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011&type=pullrequests"><img src="https://img.shields.io/badge/TOTAL_PRs-48-378ADD?style=for-the-badge&logo=github&logoColor=white" alt="Total PRs" /></a>
-<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/MERGED-29-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Merged" /></a>
-<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011+is%3Aopen&type=pullrequests"><img src="https://img.shields.io/badge/OPEN-6-f0ad4e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open" /></a>
-<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011+is%3Aclosed+is%3Aunmerged&type=pullrequests"><img src="https://img.shields.io/badge/CLOSED-13-d73a4a?style=for-the-badge&logo=github&logoColor=white" alt="Closed" /></a>
-<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011&type=pullrequests"><img src="https://img.shields.io/badge/REPOS-16-8957e5?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Repos" /></a>
+<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011&type=pullrequests"><img src="https://img.shields.io/badge/TOTAL_PRs-51-378ADD?style=for-the-badge&logo=github&logoColor=white" alt="Total PRs" /></a>
+<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/MERGED-30-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Merged" /></a>
+<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011+is%3Aopen&type=pullrequests"><img src="https://img.shields.io/badge/OPEN-7-f0ad4e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open" /></a>
+<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011+is%3Aclosed+is%3Aunmerged&type=pullrequests"><img src="https://img.shields.io/badge/CLOSED-14-d73a4a?style=for-the-badge&logo=github&logoColor=white" alt="Closed" /></a>
+<a href="https://github.com/search?q=is%3Apr+author%3APrinceThummar011+-user%3APrinceThummar011&type=pullrequests"><img src="https://img.shields.io/badge/REPOS-17-8957e5?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Repos" /></a>
 
 
 
@@ -56,6 +56,7 @@ Focus     →  LLM-powered tools · RAG Pipelines · MCP Servers · AI Analytics
 <a href="https://github.com/kyegomez"><img src="https://github.com/kyegomez.png?size=96" width="48" height="48" alt="kyegomez" title="kyegomez" /></a>&nbsp;
 <a href="https://github.com/anshaneja5"><img src="https://github.com/anshaneja5.png?size=96" width="48" height="48" alt="anshaneja5" title="anshaneja5" /></a>&nbsp;
 <a href="https://github.com/Tracer-Cloud"><img src="https://github.com/Tracer-Cloud.png?size=96" width="48" height="48" alt="Tracer-Cloud" title="Tracer-Cloud" /></a>&nbsp;
+<a href="https://github.com/diegosouzapw"><img src="https://github.com/diegosouzapw.png?size=96" width="48" height="48" alt="diegosouzapw" title="diegosouzapw" /></a>&nbsp;
 <a href="https://github.com/traceroot-ai"><img src="https://github.com/traceroot-ai.png?size=96" width="48" height="48" alt="traceroot-ai" title="traceroot-ai" /></a>&nbsp;
 <a href="https://github.com/odysseus-dev"><img src="https://github.com/odysseus-dev.png?size=96" width="48" height="48" alt="odysseus-dev" title="odysseus-dev" /></a>&nbsp;
 <a href="https://github.com/astral-sh"><img src="https://github.com/astral-sh.png?size=96" width="48" height="48" alt="astral-sh" title="astral-sh" /></a>&nbsp;
